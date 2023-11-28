@@ -25,7 +25,7 @@
                                 <tr>
                                     <td><?= $key+1 ?></td>
                                     <td><?= $value->nama ?></td>
-                                    <td><?= $value->kode_wilayah ?></td>
+                                    <td><?= $value->nama_wilayah ?></td>
                                     <td><?= $value->nilai ?></td>
                                 </tr>
                             <?php endforeach ?>
